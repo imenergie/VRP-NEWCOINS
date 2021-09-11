@@ -1,7 +1,7 @@
 I corrected all the errors.
 
 Installation:
-1. Make a backup of your .prp files for the first time just in case.
+1. Make a backup of your .lua files for the first time just in case.
 2. copy the hologram folder to the resources folder on the server.
 2. copy the vrp folder files to the resources server where the vrp folder on the server is located except for the vrp/cfg/groups.lua and vrp/cfg/blips_markers.lua files. I say this because it is better for you to modify these two files because it is possible that your files on the server will be different.
 3. in the resources folder on your server enter the vrp/cfg/folder and modify groups.lua by adding the line:
