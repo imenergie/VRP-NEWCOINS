@@ -1,5 +1,3 @@
-I corrected all the errors.
-
 Installation:
 1. Make a backup of your .lua files for the first time just in case.
 2. copy the hologram folder to the resources folder on the server.
